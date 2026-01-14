@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Black Screen Toggle",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Toggle Black Screen"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+  ,
+  "commands": {
+      "_execute_action": {
+      "suggested_key": {
+      "default": "Ctrl+Shift+B",
+      "mac": "Command+Shift+B"
+      }
+    }
+  }
+}
