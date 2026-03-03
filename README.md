@@ -28,7 +28,3 @@ A lightweight Chrome extension that turns your screen **black with one click** t
 - Extract the folder
 
 ---
-
-### 2️⃣ Open Chrome Extensions Page
-- Open **Google Chrome**
-- Go to:
