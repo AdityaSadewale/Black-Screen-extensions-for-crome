@@ -3,7 +3,6 @@
 A lightweight Chrome extension that turns your screen **black with one click** to reduce eye strain, improve focus, and create a distraction-free environment.
 
 ---
-
 ## ✨ Features
 
 - 🖥️ One-click black screen
